@@ -1,0 +1,12 @@
+[package]
+name = "pix_paint"
+version = "0.1.0"
+authors = ["xelaushi"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+minifb = "0.13"
+vek = "0.9"
+bmp = "0.5"
